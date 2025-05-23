@@ -35,7 +35,7 @@ const eslintConfig = [
     // settings: { next: { rootDir: "packages/my-app/" } },
   }),
   {
-    ignores: [".next/", "./infra/migrations/"],
+    ignores: [".next/"],
   },
 ];
 
